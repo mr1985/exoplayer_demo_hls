@@ -1,2 +1,2 @@
 # exoplayer_demo_hls
-A simple demo using the Android  Exolayer with a HLS stream
+A simple demo using the Android  Exolayer with a HLS stream & IMA ads
